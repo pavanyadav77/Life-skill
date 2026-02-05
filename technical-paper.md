@@ -68,4 +68,4 @@ It is especially useful in large enterprise applications where scalability and i
 ## References
 
 - IBM Documentation – Service Oriented Architecture  
-  https://www.ibm.com/topics/service-oriented-architecture
+  https://aws.amazon.com/what-is/service-oriented-architecture/
