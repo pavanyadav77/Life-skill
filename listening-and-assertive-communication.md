@@ -1,86 +1,73 @@
-# Listening and Assertive Communication
+# Listening and Active Communication
 
-## 1. Listening Skills
+## 1. Active Listening
 
-### What is Listening?
-Listening is the active process of receiving, understanding, interpreting, and responding to spoken messages. It goes beyond just hearing words.
+**Question 1: What are the steps/strategies to do Active Listening?**
 
-### Types of Listening
-- **Active Listening** – Fully concentrating, understanding, and responding thoughtfully
-- **Passive Listening** – Hearing without much attention or response
-- **Empathetic Listening** – Understanding emotions and feelings
-- **Critical Listening** – Evaluating and analyzing information
+Active listening means giving the speaker full attention and understanding the message clearly.
 
-### Key Components of Active Listening
-- Paying full attention
-- Avoiding interruptions
-- Observing body language
-- Asking clarifying questions
-- Paraphrasing and summarizing
-
-### Benefits of Good Listening
-- Builds trust and respect
-- Reduces misunderstandings
-- Improves relationships
-- Enhances problem-solving
-- Increases learning and productivity
-
-### Common Barriers to Listening
-- Distractions
-- Prejudgments
-- Emotional reactions
-- Multitasking
-- Lack of interest
+1. I focus completely on the speaker and avoid distractions.
+2. I do not interrupt and let the speaker finish their thoughts.
+3. I observe tone, facial expressions, and body language.
+4. I give small acknowledgements like nodding or saying “okay”.
+5. I ask questions when something is not clear.
+6. I repeat the main idea in my own words to confirm understanding.
 
 ---
 
-## 2. Assertive Communication
+## 2. Reflective Listening
 
-### What is Assertive Communication?
-Assertive communication is the ability to express thoughts, feelings, and needs clearly and respectfully without being aggressive or passive.
+**Question 2: According to Fisher’s model, what are the key points of Reflective Listening?**
 
-### Communication Styles
-- **Passive** – Avoids expressing opinions or needs
-- **Aggressive** – Expresses needs in a forceful or disrespectful way
-- **Passive-Aggressive** – Indirect expression of anger or dissatisfaction
-- **Assertive** – Clear, honest, and respectful communication
+Reflective listening focuses on understanding and confirming the message.
 
-### Characteristics of Assertive Communication
-- Clear and direct language
-- Respect for self and others
-- Calm and confident tone
-- Honest expression
-- Good eye contact and body language
-
-### Benefits of Assertive Communication
-- Builds confidence
-- Improves relationships
-- Reduces stress and conflict
-- Encourages mutual respect
-- Leads to better decision-making
+1. Carefully listen to what the other person is saying.
+2. Notice emotions and feelings behind the words.
+3. Reflect the message back in simple words.
+4. Verify if the understanding is correct.
+5. Avoid judging or giving solutions immediately.
+6. Ensure both sides agree on the same meaning.
 
 ---
 
-## 4. Example Scenarios
+## 3. Reflection
 
-### Active Listening Example
-**Speaker:** “I’m feeling stressed about the deadline.”  
-**Listener:** “I understand. You’re worried about finishing on time. How can I help?”
+**Question 3: What are the obstacles in your listening process?**
 
-### Assertive Communication Example
-“I feel overwhelmed when deadlines change suddenly. I would appreciate advance notice so I can plan better.”
+- Getting distracted by phone or surroundings  
+- Thinking about my reply instead of listening  
+- Making assumptions too quickly  
+- Emotional reactions during discussions  
 
----
+**Question 4: What can you do to improve your listening?**
 
-## 5. Tips to Improve Both Skills
-- Practice mindfulness
-- Use “I” statements
-- Avoid assumptions
-- Maintain open body language
-- Ask for feedback
-- Stay calm and respectful
+- Remove distractions during conversations  
+- Listen patiently without interrupting  
+- Take short notes during discussions  
+- Ask clarifying questions  
+- Practice summarising what I heard  
 
 ---
 
-## 6. Conclusion
-Effective listening and assertive communication work together to create meaningful, respectful, and productive interactions. Mastering both skills leads to personal and professional success.
+## 4. Types of Communication
+
+**Question 5: When do you switch to a passive communication style?**
+
+I become passive when I want to avoid conflict, especially with seniors or in group discussions where I feel unsure.
+
+**Question 6: When do you switch to an aggressive communication style?**
+
+I sometimes become aggressive when I feel frustrated, under pressure, or when my point is not being heard.
+
+**Question 7: When do you switch to a passive-aggressive communication style?**
+
+This happens when I am unhappy but do not express it directly, such as using sarcasm or staying silent.
+
+**Question 8: How can you make your communication assertive?**
+
+- Clearly express my thoughts and feelings  
+- Use calm and respectful language  
+- Listen actively before responding  
+- Say “no” when needed without guilt  
+- Focus on the issue, not the person  
+
