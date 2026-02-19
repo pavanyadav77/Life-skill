@@ -1,58 +1,37 @@
 # Learning Process
 
-## What is Learning?
-Learning is a continuous process of acquiring knowledge, skills, values, and understanding through experience, study, practice, and reflection.
+## 1. How to Learn Faster with the Feynman Technique
+
+**Question 1: What is the Feynman Technique?**  
+The Feynman Technique is a way of learning in which you understand a topic by explaining it in very simple terms, as if teaching it to someone else.
 
 ---
 
-## Stages of the Learning Process
+## 2. Learning How to Learn – TED Talk by Barbara Oakley
 
-### 1. Awareness
-Recognizing the need to learn something new or improve existing knowledge.
+**Question 2: What was the most interesting idea for you?**  
+The most interesting idea for me was that the brain needs breaks to learn better. Sometimes stepping away from a problem helps the mind connect ideas naturally.
 
-### 2. Understanding
-Grasping concepts, ideas, and principles through reading, listening, and observation.
-
-### 3. Practice
-Applying knowledge through repetition, exercises, and real-life use.
-
-### 4. Feedback
-Receiving input from results, mentors, peers, or self-evaluation to identify gaps.
-
-### 5. Improvement
-Refining skills and correcting mistakes based on feedback.
-
-### 6. Mastery
-Achieving confidence and consistency in applying the learned skill or knowledge.
+**Question 3: What are active and diffused modes of thinking?**  
+Active thinking is when we focus hard on a problem. Diffused thinking happens when we relax, and the brain works in the background to find solutions.
 
 ---
 
-## Key Factors Affecting Learning
-- Motivation and curiosity
-- Consistency and discipline
-- Environment and resources
-- Guidance and mentorship
-- Time and effort
+## 3. Learn Anything in 20 Hours
+
+**Question 4: According to the video, what are the steps to approach a new topic?**
+
+- Decide exactly what you want to learn  
+- Break the topic into small parts  
+- Remove distractions  
+- Practice regularly  
+- Learn just enough before practising  
 
 ---
 
-## Effective Learning Techniques
-- Active participation
-- Note-taking and summarization
-- Teaching others
-- Spaced repetition
-- Practical application
+## 4. Reflection on Learning Principles
 
----
+**Question 5: What actions can you take to improve your learning process?**
 
-## Importance of the Learning Process
-- Encourages personal growth
-- Builds problem-solving ability
-- Improves adaptability
-- Enhances career development
-- Promotes lifelong learning
+From now on, I want to focus fully when I study and avoid multitasking. I will keep my phone on silent and remove unnecessary notifications. I plan to work in focused time blocks and take short breaks in between. While learning software concepts, I will try to understand where they are used and explain them in my own words. I will practice writing code regularly instead of only reading. I will take notes during discussions and revise them later. I will also track my time and set realistic deadlines to stay consistent. Most importantly, I want to enjoy the learning process and stay curious rather than feeling stressed.
 
----
-
-## Conclusion
-Learning is not a one-time event but a lifelong journey. A structured learning process helps individuals grow, adapt, and succeed in both personal and professional life.
